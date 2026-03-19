@@ -1,0 +1,5 @@
+task1: took roughly 5 minutes
+task 2: took 6 to 7 minutes
+task 3 : took 3 minutes
+task 4 : took 20 minutes
+total time : ~34 minutes
